@@ -2,7 +2,8 @@
 
 Este é um projeto para controle financeiro que recebe as movimentações e as armazena em um arquivo JSON.
 
-![image](https://github.com/luizolijr/PyBank/assets/42130256/8dbe2c24-7adf-4c0e-925d-0f98858a8823)
+![image](https://github.com/luizolijr/PyBank/assets/42130256/4122a882-b998-46bb-879d-bd21c00bac41)
+
 
 ## Descrição
 
