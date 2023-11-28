@@ -11,7 +11,7 @@ O objetivo deste projeto é ter um sistema funcional com as operações básicas
 
 Assim como no projeto do módulo 1, vale ressaltar que o objetivo deste projeto era implementar as funcionalidades com o mínimo de bibliotecas/módulos possíveis, sendo assim, teremos pouco ou quase nenhuma biblioteca complexa exercendo funções importantes no código, ex: pandas aparece minimamente no upgrade do projeto.
 
-Informação importante sobre este repositório: O projeto desenvolvido pelo grupo está contido em "Projeto_LPII.ipynb", mas após o envio, decidi fazer um upgrade pra deixá-lo com uma interface visual utilizando Streamlit, que se encontra no arquivo "projeto_v2.py".
+Informação importante sobre este repositório: O projeto desenvolvido pelo grupo está contido em "Projeto_LPII.ipynb", mas após o envio, decidi dar uma mexidinha pra deixá-lo com uma interface visual utilizando Streamlit, que se encontra no arquivo "projeto_v2.py".
 
 ## Uso Projeto_LPII.ipynb
 
