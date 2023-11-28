@@ -25,7 +25,6 @@ Para usar o projeto, siga estas etapas:
 ## Uso projeto_v2.py
 
 Atualização: Adicionado parte "gráfica" com streamlit.
-App disponivel no endereço https://pybank.streamlit.app/
 
 1. Instale as devidas bibliotecas
 2. No windows, usei o terminal do anaconda e naveguei até a pasta do projeto.
