@@ -7,7 +7,7 @@ Este é um projeto para controle financeiro que recebe as movimentações e as a
 
 ## Descrição
 
-O objetivo deste projeto é ter um sistema funcional, com as operações básicas de CRUD (Create, Read, Update, Delete). Nesse contexto podemos adicionar novos registros, lêr os registros existentes, editá-los e deletá-los. Além disto, foi solicitado que pudessemos ter acesso aos investimentos do usuário e o rendimento com base no tempo decorrido.
+O objetivo deste projeto é ter um sistema funcional com as operações básicas de CRUD (Create, Read, Update, Delete), além de poder ter acesso aos investimentos do usuário e o rendimento desse investimento com base no tempo decorrido. Dado este contexto, podemos adicionar novos registros, lêr os registros existentes, editá-los, deletá-los, conferir os rendimentos e o capital. 
 
 Assim como no projeto do módulo 1, vale ressaltar que o objetivo deste projeto era implementar as funcionalidades com o mínimo de bibliotecas/módulos possíveis, sendo assim, teremos pouco ou quase nenhuma biblioteca complexa exercendo funções importantes no código, ex: pandas aparece minimamente no upgrade do projeto.
 
