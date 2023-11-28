@@ -235,6 +235,7 @@ def atualizar_rendimento(registros):
     df = pd.DataFrame(registros)
     df['data_registro'] = pd.to_datetime(df['data_registro'])
     df['data_atual'] = data_atual
+    df['data_atual'] = pd.to_datetime(df['data_atual'])
     df.loc[df['tipo'] == 'Investimento', 'dif_dias'] = (data_atual - df.loc[df['tipo'] == 'Investimento', 'data_registro'].dt.date).dt.days
     taxa = 0.1 / 100
     df['rendimento'] = 0
